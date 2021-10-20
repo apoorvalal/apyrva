@@ -2,6 +2,7 @@ LICENSE
 README.md
 setup.py
 apyrva/__init__.py
+apyrva/scrUtils.py
 apyrva.egg-info/PKG-INFO
 apyrva.egg-info/SOURCES.txt
 apyrva.egg-info/dependency_links.txt

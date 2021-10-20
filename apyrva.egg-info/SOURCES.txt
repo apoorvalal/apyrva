@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+apyrva/__init__.py
+apyrva.egg-info/PKG-INFO
+apyrva.egg-info/SOURCES.txt
+apyrva.egg-info/dependency_links.txt
+apyrva.egg-info/not-zip-safe
+apyrva.egg-info/requires.txt
+apyrva.egg-info/top_level.txt
+apyrva/__pycache__/__init__.cpython-37.pyc

@@ -1,5 +1,3 @@
-# Example Package
+# `apyrva`
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Misc utilities package for personal use. Functions added / changed without notice - feel free to steal but don't use as a dependency. 

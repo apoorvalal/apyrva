@@ -3,7 +3,7 @@ from pathlib import Path
 from requests_html import HTMLSession
 
 #%%
-def scrape_links(url, pat):
+def scrape_links(url, pat = None):
     """
     Scrapes all links on page, optionally accepts filename pattern
     """
